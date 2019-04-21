@@ -1,3 +1,0 @@
-*.unity linguist-language=unity
-*.cs linguist-language=c sharp
-*.ino linguist-language=Arduino
