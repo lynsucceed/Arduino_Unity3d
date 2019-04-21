@@ -1,0 +1,3 @@
+*.unity linguist-language=unity
+*.cs linguist-language=c#
+*.ino linguist-language=Arduino
